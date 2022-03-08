@@ -48,7 +48,7 @@ public class App
    }
 
    // modele e implemente um método recursivo que calcule o somatorio dos numeros inteiros entre os numeros k e j
-   // ex: somatorio2(2, 5, 0) = 2 + 3 + 4 = 9
+   // ex: somatorio2(2, 5, 0) =   3 + 4 = 7
     public static int somatorio2(int k, int j, int count)
    {
        if (k == j) {
